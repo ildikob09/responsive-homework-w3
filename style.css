@@ -119,8 +119,3 @@ a {
 a:hover {
   color: blue;
 }
-@media (max-width: 768px) {
-  button {
-    text-align: right;
-  }
-}
