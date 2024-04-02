@@ -119,3 +119,9 @@ a {
 a:hover {
   color: blue;
 }
+@media (min-width: 800px) {
+  button {
+    display: block;
+    text-align: left;
+  }
+}
